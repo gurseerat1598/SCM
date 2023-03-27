@@ -1,1 +1,1 @@
-# SCM
+# Source code management (SCM)
